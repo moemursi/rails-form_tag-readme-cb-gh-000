@@ -1,4 +1,4 @@
-# Rails form_tag
+# Rails formi_tag
 
 
 ## Rails Forms
